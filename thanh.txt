@@ -1,1 +1,2 @@
 tao moi va them du lieu file thanh.txt
+thanh sua file này

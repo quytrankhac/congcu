@@ -1,0 +1,2 @@
+tao moi va them du lieu file thanh.txt
+tao them su khac biet de co conlicft
